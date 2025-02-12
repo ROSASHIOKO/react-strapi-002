@@ -4,9 +4,7 @@ import React from 'react';
 const Header: React.FC = () => {
   return (
     <header className="header">
-      <div className="logo">
-        <img src="/logo.png" alt="News Logo" />
-      </div>
+     <h1>NEWS WEBSITE</h1>
       <nav className="nav">
         <ul>
           <li><a href="/">Home</a></li>
