@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - main
+      - strapi-project
   pull_request:
     branches:
       - main
+      - strapi-project
 
 jobs:
   build:
