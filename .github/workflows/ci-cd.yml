@@ -39,6 +39,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Deploy to Platform
-        run: |
-          # Add your deployment steps here (e.g., Heroku, AWS, etc.)
+      
