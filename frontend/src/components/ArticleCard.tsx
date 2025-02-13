@@ -1,4 +1,3 @@
-import React from 'react';
 
 const ArticleCard = ({ title, description, imageUrl, articleLink }: any) => {
   return (
